@@ -3,7 +3,6 @@ const donet = "";
 const owner = ["6289647090775"];
 const MessageType = require(`message-type`);
 const quoted = require("quoted");
-const {
   default: sansekaiConnect,
   useSingleFileAuthState,
   DisconnectReason,
